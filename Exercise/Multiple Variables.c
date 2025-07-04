@@ -25,7 +25,7 @@ int main () {
 
 	// or
 	printf("\n \n"); // giving newline by use "\n"
-	printf("Var1 value is %d \n Var2 value is %d \n Var3 value is %d \n", Var1, Var2, Var3); // print out the Var1 value
+	printf("Var1 value is %d \n Var2 value is %d \n Var3 value is %d \n", Var1, Var2, Var3); // print out the Var1, Var2, Var3 values
 	
 	return 0;
 }
