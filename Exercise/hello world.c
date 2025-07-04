@@ -11,7 +11,7 @@
 
 int main () {
 
-	printf("Hello world ! \n");
+	printf("Hello world ! \n"); // printing the words ( hello world )
 	
 	return 0;
 }
