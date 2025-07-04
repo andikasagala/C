@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/andika-s99
 
 #include <stdio.h>
 
-// Hello world codes
+// printf
 
 int main () {
 
