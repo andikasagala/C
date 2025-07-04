@@ -23,6 +23,9 @@ int main () {
 	printf("Var2 value is %d \n", Var2); // print out the Var2 value
 	printf("Var3 value is %d \n", Var3); // print out the Var3 value
 
+	// or
+	printf("\n \n"); // giving newline by use "\n"
+	printf("Var1 value is %d \n Var2 value is %d \n Var3 value is %d \n", Var1, Var2, Var3); // print out the Var1 value
 	
 	return 0;
 }
